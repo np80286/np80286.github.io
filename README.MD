@@ -6,7 +6,7 @@ The Paisley Development portfolio site, hosted at [paisleydevelopment.com](https
 
 - [Box Builder 3000](https://www.paisleydevelopment.com/boxBuilder3000/) — visual subwoofer enclosure design builder.
 - [Ghost Recon Buddy](https://www.paisleydevelopment.com/GhostReconBuddy/) — searchable Ghost Recon Wildlands reference.
-- [Xfinity Connection Reliability Monitor](https://www.paisleydevelopment.com/internetConnectionBuddy/) — independent evidence dashboard for documenting Xfinity service reliability.
+- [Xfinity Connection Reliability Monitor](https://www.paisleydevelopment.com/xfinity-connection-reliability-monitor/) — independent evidence dashboard for documenting Xfinity service reliability.
 
 ## Local preview
 
